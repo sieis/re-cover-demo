@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://re-cover-hugo-demo.netlify.app/'
 languageCode = 'en-us'
 title = 're-cover theme demo'
 theme = 'recover'
